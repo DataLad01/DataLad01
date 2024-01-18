@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @DataLad01
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on Skills Like Data Vizualization, SQL , Python...
+💹 Data Science Enthusiast | Pursuit in learning Machine Learning, Business Analytics (Data Science) | Python| SQL | Excel | Visualization | Data Insight | Data Storytelling
 
 
 <!---
